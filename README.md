@@ -1,4 +1,4 @@
-Homework 3.
+Homework 3
 
 git add .
 git commit -m "tekst"
