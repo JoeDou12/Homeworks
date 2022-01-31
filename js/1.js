@@ -1,0 +1,10 @@
+sum1 = 1;
+sum2 = 2;
+sum = sum1 + sum2;
+sum0 = sum1 - sum2;
+sum3 = sum1 * sum2;
+sum4 = sum1 / sum2;
+console.log(sum);
+console.log(sum0);
+console.log(sum3);
+console.log(sum4);
